@@ -1,0 +1,12 @@
+li{
+  list-style: none;
+}
+.jumbotron{
+  text-align: center;
+}
+.jumbotronP{
+  text-align: justify;
+}
+.nav1{
+  background-color: black;
+}
